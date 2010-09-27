@@ -227,8 +227,8 @@ The user exhales a mighty gust that inflicts \xfffedamage. It may also paralyze 
 The user switches places with a party \xfffePokemon in waiting, passing along \xfffeany stat changes.
 The user compels the foe to keep using only \xfffethe move it last used for three to \xfffeseven turns.
 An attack move that inflicts double damage if \xfffeused on a foe that is switching out \xfffeof battle.
-A spin attack that can also eliminate such moves \xfffeas Bind, Wrap, Leech Seed, and Spikes.
-A sweet scent that lowers the foe’s evasiveness. \xfffeIt also lures wild Pokemon if used in grass, etc.
+A spin attack that can also eliminate such \xfffemoves as Bind, Wrap, Leech Seed, and \xfffeSpikes.
+A sweet scent that lowers the foe’s \xfffeevasiveness. It also lures wild \xfffePokemon if used in grass, etc.
 The foe is slammed with a steel-hard tail. \xfffeIt may also lower the target’s Defense stat.
 The foe is raked with steel claws. \xfffeIt may also raise the user’s Attack stat. 
 The user allows the foe to attack first. \xfffeIn return, this throw move is guaranteed \xfffenot to miss.
@@ -236,13 +236,13 @@ The user restores its own HP. \xfffeThe amount of HP regained varies with the \x
 The user restores its own HP. \xfffeThe amount of HP regained varies with the \xfffeweather.
 The user restores its own HP. \xfffeThe amount of HP regained varies with the \xfffeweather.
 A unique attack that varies in type and \xfffeintensity depending on the Pokemon using it.
-The user delivers a double chop with its forearms crossed. \xfffeIt has a high critical-hit ratio.
-The user whips up a vicious tornado to tear at the foe. \xfffeIt may also make the foe flinch.
+The user delivers a double chop with its \xfffeforearms crossed. It has a high \xfffecritical-hit ratio.
+The user whips up a vicious tornado to tear \xfffeat the foe. It may also make the foe \xfffeflinch.
 The user summons a heavy rain that falls \xfffefor five turns, powering up Water- type moves.
 The user intensifies the sun for \xfffefive turns, powering up Fire-type moves. 
-The user crunches up the foe with sharp fangs. \xfffeIt may also lower the target’s Defense stat.
-A retaliation move that counters any special attack, inflicting double the damage taken.
-The user hypnotizes itself into copying any stat change made by the foe. 
+The user crunches up the foe with sharp \xfffefangs. It may also lower the \xfffetarget’s Defense stat.
+A retaliation move that counters any special \xfffeattack, inflicting double the damage taken.
+The user hypnotizes itself into copying any \xfffestat change made by the foe. 
 The user charges the foe at blinding speed. \xfffeThis attack always goes before any other \xfffemove.
 The user attacks with a prehistoric power. \xfffeIt may also raise all the user’s stats at \xfffeonce.
 The user hurls a shadowy blob at the foe. \xfffeIt may also lower the foe’s Sp. Def stat.
