@@ -60,7 +60,7 @@ The foe is struck with an icy-cold beam of \xfffeenergy.It may also freeze the t
 A howling blizzard is summoned to strike \xfffethe foe. It may also freeze the target solid.
 The foe is attacked with a peculiar ray. \xfffeIt may also leave the target confused. 
 A spray of bubbles is forcefully ejected at \xfffethe foe. It may also lower the target’s \xfffeSpeed stat.
-The foe is hit with a rainbow-colored beam. \xfffeIt may also lower the target’s Attack stat.
+The foe is hit with a rainbow-colored beam. \xfffeIt may also lower the target’s \xfffeAttack stat.
 The foe is attacked with a powerful beam. \xfffeThe user must rest on the next turn to \xffferegain its energy.
 The foe is jabbed with a sharply pointed \xfffebeak or horn. 
 A corkscrewing attack with the sharp beak \xfffeacting as a drill. 
@@ -219,23 +219,23 @@ The user attacks by giving the foe a \xfffebooby-trapped gift. It restores HP \x
 A full-power attack that grows more \xfffepowerful the less the user likes its Trainer.
 The user creates a protective field that \xfffeprevents status problems for five turns.
 The user adds its HP to the foe’s HP, \xfffethen equally shares the combined HP \xfffewith the foe.
-The foe is razed with a mystical fire of great intensity. \xfffeIt may also leave the target with a burn.
-The user looses a ground-shaking quake affecting everyone in battle. \xfffeIts power varies.
-The foe is punched with the user’s full, concentrated power. \xfffeIt confuses the foe if it hits.
-Using its tough and impressive horn, the user rams into the foe  with no letup. 
-The user exhales a mighty gust that inflicts damage. \xfffeIt may also paralyze the target.
-The user switches places with a party Pokemon in waiting, passing along any stat changes.
-The user compels the foe to keep using only the move it \xfffelast used for three to seven turns.
-An attack move that inflicts double damage if used \xfffeon a foe that is switching out of battle.
+The foe is razed with a mystical fire of great \xfffeintensity. It may also leave the \xfffetarget with a burn.
+The user looses a ground-shaking quake \xfffeaffecting everyone in battle. Its \xfffepower varies.
+The foe is punched with the user’s full, \xfffeconcentrated power. It confuses the \xfffefoe if it hits.
+Using its tough and impressive horn, the \xfffeuser rams into the foe  with no letup. 
+The user exhales a mighty gust that inflicts \xfffedamage. It may also paralyze the \xfffetarget.
+The user switches places with a party \xfffePokemon in waiting, passing along \xfffeany stat changes.
+The user compels the foe to keep using only \xfffethe move it last used for three to \xfffeseven turns.
+An attack move that inflicts double damage if \xfffeused on a foe that is switching out \xfffeof battle.
 A spin attack that can also eliminate such moves \xfffeas Bind, Wrap, Leech Seed, and Spikes.
 A sweet scent that lowers the foe’s evasiveness. \xfffeIt also lures wild Pokemon if used in grass, etc.
 The foe is slammed with a steel-hard tail. \xfffeIt may also lower the target’s Defense stat.
 The foe is raked with steel claws. \xfffeIt may also raise the user’s Attack stat. 
-The user allows the foe to attack first. \xfffeIn return, this throw move is guaranteed not to miss.
-The user restores its own HP. \xfffeThe amount of HP regained varies with the weather.
-The user restores its own HP. \xfffeThe amount of HP regained varies with the weather.
-The user restores its own HP. \xfffeThe amount of HP regained varies with the weather.
-A unique attack that varies in type and intensity depending \xfffeon the Pokemon using it.
+The user allows the foe to attack first. \xfffeIn return, this throw move is guaranteed \xfffenot to miss.
+The user restores its own HP. \xfffeThe amount of HP regained varies with the \xfffeweather.
+The user restores its own HP. \xfffeThe amount of HP regained varies with the \xfffeweather.
+The user restores its own HP. \xfffeThe amount of HP regained varies with the \xfffeweather.
+A unique attack that varies in type and \xfffeintensity depending on the Pokemon using it.
 The user delivers a double chop with its forearms crossed. \xfffeIt has a high critical-hit ratio.
 The user whips up a vicious tornado to tear at the foe. \xfffeIt may also make the foe flinch.
 The user summons a heavy rain that falls \xfffefor five turns, powering up Water- type moves.
@@ -243,8 +243,8 @@ The user intensifies the sun for \xfffefive turns, powering up Fire-type moves.
 The user crunches up the foe with sharp fangs. \xfffeIt may also lower the target’s Defense stat.
 A retaliation move that counters any special attack, inflicting double the damage taken.
 The user hypnotizes itself into copying any stat change made by the foe. 
-The user charges the foe at blinding speed. \xfffeThis attack always goes before any other move.
-The user attacks with a prehistoric power. \xfffeIt may also raise all the user’s stats at once.
+The user charges the foe at blinding speed. \xfffeThis attack always goes before any other \xfffemove.
+The user attacks with a prehistoric power. \xfffeIt may also raise all the user’s stats at \xfffeonce.
 The user hurls a shadowy blob at the foe. \xfffeIt may also lower the foe’s Sp. Def stat.
 Two turns after this move is used, the foe \xfffeis attacked with a hunk of psychic energy.
 The user hits with a punch that may lower \xfffethe target’s Defense. It can also smash \xfffecracked boulders.
@@ -252,7 +252,7 @@ Traps the foe inside a whirlpool that lasts \xfffefor two to five turns. The use
 The user gets all the party Pokemon to attack the foe. \xfffeThe more party Pokemon, the more damage.
 An attack that hits first and makes the target flinch. \xfffeIt only works the first turn the user is in battle.
 The user attacks in an uproar for two to \xfffefive turns. Over that time, no one can fall asleep.
-The user charges up power, and raises both its Defense and Sp. Def. \xfffeThe move can be used three times.
+The user charges up power, and \xffferaises both its Defense and Sp. Def. \xfffeThe move can be used three times.
 The power stored using the move Stockpile is released at once in an attack. 
 The power stored using the move Stockpile is absorbed by the user to heal its HP.
 The user exhales a heated breath on the foe to attack. \xfffeIt may also leave the target with a burn.
@@ -265,16 +265,16 @@ An attack move that doubles \xfffeits power if the user is \xfffepoisoned, paral
 The user focuses its mind before launching a punch. \xfffeIt will fail if the user is hit before it is used.
 This attack inflicts double damage on a paralyzed foe. \xfffeIt also cures the foe’s paralysis, however.
 The user draws attention to itself, \xfffemaking all foes take aim only at the user. 
-An attack that makes use of nature’s power. \xfffeIts effects vary depending on the user’s environment.
+An attack that makes use of nature’s power. \xfffeIts effects vary depending on the user’s \xfffeenvironment.
 The user boosts the power of the Electric \xfffemove it uses next. It also raises the user’s \xfffeSp. Def stat.
 The foe is taunted into a rage that allows it to use only attack moves for two to four turns.
 A move that boosts the power of the ally’s attack in a Double Battle. 
-The user catches the foe off guard and swaps the foe’s held item with its own. 
+The user catches the foe off guard \xfffeand swaps the foe’s held item with its own. 
 The user mimics the foe completely, copying the foe’s natural ability. 
 A self-healing move. The user restores its own HP by \xfffeup to half of its maximum HP in the next turn.
 The user hurriedly and randomly uses a move among those known by other Pokemon in the party.
 The user lays roots that restore HP on every turn. \xfffeBecause it is rooted, it can’t switch out.
-The user attacks the foe with great power. \xfffeHowever, it also lowers the user’s Attack and Defense.
+The user attacks the foe with great power. \xfffeHowever, it also lowers the user’s Attack \xfffeand Defense.
 A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
 The user recycles a held item that has been used in battle \xfffeso it can be used again.
 An attack move that inflicts double the \xfffedamage if the user has been hurt by the foe \xfffein the same turn.
@@ -282,18 +282,18 @@ The user attacks with tough fists, etc. \xfffeIt can also break any barrier such
 The user lets loose a huge yawn that lulls the foe \xfffeinto falling asleep on the next turn.
 The user slaps down the foe’s held item, preventing the item from \xfffebeing used during the battle.
 An attack move that cuts down the foe’s HP to equal the user’s HP. 
-The user attacks in an explosive fury. \xfffeThe lower the user’s HP, the less powerful this attack becomes.
+The user attacks in an explosive fury. \xfffeThe lower the user’s HP, the less powerful \xfffethis attack becomes.
 The user employs its psychic power to exchange abilities with the foe. 
 If the foe knows any move also known by the \xfffeuser, the foe is prevented from using it.
 The user rests to cure itself of a poisoning, burn, or paralysis. 
 If the user faints, the user’s grudge fully depletes the PP \xfffeof the foe’s move that knocked it out.
 The user steals the effects of any healing or stat- changing \xfffemove the foe attempts to use.
-The user attacks with a secret power. \xfffeIts added effects vary depending on the user’s environment.
+The user attacks with a secret power. \xfffeIts added effects vary depending on the \xfffeuser’s environment.
 A two-turn attack. The user dives underwater on the \xfffefirst turn, then hits on the next turn.
 The user looses a flurry of open-palmed arm thrusts that hit \xfffetwo to five times in a row.
 The user’s type is changed depending on its environment, such as at water’s edge, in grass, or in a cave.
 The user stares at flashing lights to focus \xfffeits mind, sharply raising its Sp. Atk stat.
-The user looses a damaging burst of light. \xfffeIt may also reduce the target’s Sp. Def stat.
+The user looses a damaging burst of light. \xfffeIt may also reduce the target’s Sp. Def \xfffestat.
 A mistlike flurry of down envelops and damages the foe. \xfffeIt may also lower the target’s Sp. Atk.
 The user covers the foe with a mass of down that sharply \xfffelowers the Attack stat.
 The user performs a wobbly dance that confuses all \xfffethe Pokemon in battle. 
@@ -305,7 +305,7 @@ The user slacks off, restoring its own HP by up to half of its maximum HP.
 The user lets loose a horribly echoing shout with the power to inflict damage.
 The user bites the foe with toxic fangs. \xfffeIt may also leave the foe badly poisoned. 
 The user slashes the foe with hard and sharp claws. \xfffeIt may also lower the target’s Defense.
-The foe is razed by a fiery explosion. \xfffeThe user must rest on the next turn, however.
+The foe is razed by a fiery explosion. \xfffeThe user must rest on the next turn, \xfffehowever.
 The foe is hit with a watery blast. \xfffeThe user must rest on the next turn, however.
 The foe is hit with a hard punch fired like a meteor. \xfffeIt may also raise the user’s Attack.
 The user attacks the foe while shouting in a startling fashion. \xfffeIt may also make the target flinch.
