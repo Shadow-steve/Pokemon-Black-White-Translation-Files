@@ -280,31 +280,31 @@ The user recycles a held item that has been \xfffeused in battle so it can be us
 An attack move that inflicts double the \xfffedamage if the user has been hurt by the foe \xfffein the same turn.
 The user attacks with tough fists, etc. \xfffeIt can also break any barrier such as \xfffeLight Screen and Reflect.
 The user lets loose a huge yawn that lulls \xfffethe foe into falling asleep on the \xfffenext turn.
-The user slaps down the foe’s held item, preventing the item from \xfffebeing used during the battle.
-An attack move that cuts down the foe’s HP to equal the user’s HP. 
+The user slaps down the foe’s held item, \xfffepreventing the item from being used \xfffeduring the battle.
+An attack move that cuts down the foe’s HP \xfffeto equal the user’s HP. 
 The user attacks in an explosive fury. \xfffeThe lower the user’s HP, the less powerful \xfffethis attack becomes.
-The user employs its psychic power to exchange abilities with the foe. 
-If the foe knows any move also known by the \xfffeuser, the foe is prevented from using it.
+The user employs its psychic power to \xfffeexchange abilities with the foe. 
+If the foe knows any move also known \xfffeby the user, the foe is prevented from using it.
 The user rests to cure itself of a poisoning, burn, or paralysis. 
-If the user faints, the user’s grudge fully depletes the PP \xfffeof the foe’s move that knocked it out.
-The user steals the effects of any healing or stat- changing \xfffemove the foe attempts to use.
+If the user faints, the user’s grudge fully \xfffedepletes the PP of the foe’s move \xfffethat knocked it out.
+The user steals the effects of any healing \xfffeor stat-changing move the foe \xfffeattempts to use.
 The user attacks with a secret power. \xfffeIts added effects vary depending on the \xfffeuser’s environment.
-A two-turn attack. The user dives underwater on the \xfffefirst turn, then hits on the next turn.
+A two-turn attack. The user dives \xfffeunderwater on the first turn, then \xfffehits on the next turn.
 The user looses a flurry of open-palmed arm thrusts that hit \xfffetwo to five times in a row.
-The user’s type is changed depending on its environment, such as at water’s edge, in grass, or in a cave.
+The user’s type is changed depending on its \xfffeenvironment, such as at water’s \xfffeedge, in grass, or in a cave.
 The user stares at flashing lights to focus \xfffeits mind, sharply raising its Sp. Atk stat.
 The user looses a damaging burst of light. \xfffeIt may also reduce the target’s Sp. Def \xfffestat.
-A mistlike flurry of down envelops and damages the foe. \xfffeIt may also lower the target’s Sp. Atk.
-The user covers the foe with a mass of down that sharply \xfffelowers the Attack stat.
-The user performs a wobbly dance that confuses all \xfffethe Pokemon in battle. 
-The user launches a kick with a high critical-hit ratio. \xfffeIt may also leave the target with a burn.
-The user covers itself with mud. It weakens Electric- \xfffetype moves while the user is in the battle.
-The user continually rolls into the foe over five turns. \xfffeIt becomes stronger each time it hits.
+A mistlike flurry of down envelops and \xfffedamages the foe. It may also lower \xfffethe target’s Sp. Atk.
+The user covers the foe with a mass of down \xfffethat sharply lowers the Attack stat.
+The user performs a wobbly dance that \xfffeconfuses all the Pokemon in battle. 
+The user launches a kick with a high \xfffecritical-hit ratio. It may also \xfffeleave the target with a burn.
+The user covers itself with mud. It weakens \xfffeElectric-type moves while the user is \xfffein the battle.
+The user continually rolls into the foe over \xfffefive turns. It becomes stronger each \xfffetime it hits.
 The user attacks by wildly swinging its thorny arms. \xfffeIt may also make the target flinch.
-The user slacks off, restoring its own HP by up to half of its maximum HP. 
-The user lets loose a horribly echoing shout with the power to inflict damage.
+The user slacks off, restoring its own HP by \xfffeup to half of its maximum HP. 
+The user lets loose a horribly echoing shout \xfffewith the power to inflict damage.
 The user bites the foe with toxic fangs. \xfffeIt may also leave the foe badly poisoned. 
-The user slashes the foe with hard and sharp claws. \xfffeIt may also lower the target’s Defense.
+The user slashes the foe with hard and \xfffesharp claws. It may also lower the \xfffetarget’s Defense.
 The foe is razed by a fiery explosion. \xfffeThe user must rest on the next turn, \xfffehowever.
 The foe is hit with a watery blast. \xfffeThe user must rest on the next turn, however.
 The foe is hit with a hard punch fired like a meteor. \xfffeIt may also raise the user’s Attack.
