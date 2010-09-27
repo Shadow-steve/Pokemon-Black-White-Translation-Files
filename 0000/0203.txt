@@ -249,21 +249,21 @@ The user hurls a shadowy blob at the foe. \xfffeIt may also lower the foe’s Sp
 Two turns after this move is used, the foe \xfffeis attacked with a hunk of psychic energy.
 The user hits with a punch that may lower \xfffethe target’s Defense. It can also smash \xfffecracked boulders.
 Traps the foe inside a whirlpool that lasts \xfffefor two to five turns. The user can pass \xfffethrough whirlpools.
-The user gets all the party Pokemon to attack the foe. \xfffeThe more party Pokemon, the more damage.
-An attack that hits first and makes the target flinch. \xfffeIt only works the first turn the user is in battle.
+The user gets all the party Pokemon to \xfffeattack the foe. The more party \xfffePokemon, the more damage.
+An attack that hits first and makes the \xfffetarget flinch. It only works the \xfffefirst turn the user is in battle.
 The user attacks in an uproar for two to \xfffefive turns. Over that time, no one can fall asleep.
 The user charges up power, and \xffferaises both its Defense and Sp. Def. \xfffeThe move can be used three times.
-The power stored using the move Stockpile is released at once in an attack. 
-The power stored using the move Stockpile is absorbed by the user to heal its HP.
+The power stored using the move Stockpile is \xfffereleased at once in an attack. 
+The power stored using the move Stockpile is \xfffeabsorbed by the user to heal its HP.
 The user exhales a heated breath on the foe to attack. \xfffeIt may also leave the target with a burn.
-The user summons a hailstorm lasting five turns. \xfffeIt damages all Pokemon except the Ice type.
-The user torments and enrages the foe, making it incapable of \xfffeusing the same move twice in a row.
+The user summons a hailstorm lasting five \xfffeturns. It damages all Pokemon except \xfffethe Ice type.
+The user torments and enrages the foe, \xfffemaking it incapable of using the \xfffesame move twice in a row.
 Flattery is used to confuse the foe. \xfffeHowever, it also raises the target’s Sp. Atk stat.
-The user shoots a sinister, bluish white flame at the foe to inflict a burn. 
+The user shoots a sinister, bluish white \xfffeflame at the foe to inflict a burn. 
 The user faints upon using this move. \xfffeIn return, it sharply lowers the target’s Attack and Sp. Atk.
 An attack move that doubles \xfffeits power if the user is \xfffepoisoned, paralyzed, or has a burn.
-The user focuses its mind before launching a punch. \xfffeIt will fail if the user is hit before it is used.
-This attack inflicts double damage on a paralyzed foe. \xfffeIt also cures the foe’s paralysis, however.
+The user focuses its mind before launching a \xfffepunch. It will fail if the user is \xfffehit before it is used.
+This attack inflicts double damage on a \xfffeparalyzed foe. It also cures the \xfffefoe’s paralysis, however.
 The user draws attention to itself, \xfffemaking all foes take aim only at the user. 
 An attack that makes use of nature’s power. \xfffeIts effects vary depending on the user’s \xfffeenvironment.
 The user boosts the power of the Electric \xfffemove it uses next. It also raises the user’s \xfffeSp. Def stat.
