@@ -267,19 +267,19 @@ This attack inflicts double damage on a \xfffeparalyzed foe. It also cures the \
 The user draws attention to itself, \xfffemaking all foes take aim only at the user. 
 An attack that makes use of nature’s power. \xfffeIts effects vary depending on the user’s \xfffeenvironment.
 The user boosts the power of the Electric \xfffemove it uses next. It also raises the user’s \xfffeSp. Def stat.
-The foe is taunted into a rage that allows it to use only attack moves for two to four turns.
-A move that boosts the power of the ally’s attack in a Double Battle. 
+The foe is taunted into a rage that allows it \xfffeto use only attack moves for two to four turns.
+A move that boosts the power of the ally’s \xfffeattack in a Double Battle. 
 The user catches the foe off guard \xfffeand swaps the foe’s held item with its own. 
-The user mimics the foe completely, copying the foe’s natural ability. 
-A self-healing move. The user restores its own HP by \xfffeup to half of its maximum HP in the next turn.
-The user hurriedly and randomly uses a move among those known by other Pokemon in the party.
-The user lays roots that restore HP on every turn. \xfffeBecause it is rooted, it can’t switch out.
+The user mimics the foe completely, copying \xfffethe foe’s natural ability. 
+A self-healing move. The user restores its \xfffeown HP by up to half of its maximum \xfffeHP in the next turn.
+The user hurriedly and randomly uses a move \xfffeamong those known by other Pokemon in the party.
+The user lays roots that restore HP on \xfffeevery turn. Because it is rooted, it \xfffecan’t switch out.
 The user attacks the foe with great power. \xfffeHowever, it also lowers the user’s Attack \xfffeand Defense.
-A barrier reflects back to the foe moves like Leech Seed and moves that damage status.
-The user recycles a held item that has been used in battle \xfffeso it can be used again.
+A barrier reflects back to the foe moves \xfffelike Leech Seed and moves that damage status.
+The user recycles a held item that has been \xfffeused in battle so it can be used \xfffeagain.
 An attack move that inflicts double the \xfffedamage if the user has been hurt by the foe \xfffein the same turn.
 The user attacks with tough fists, etc. \xfffeIt can also break any barrier such as \xfffeLight Screen and Reflect.
-The user lets loose a huge yawn that lulls the foe \xfffeinto falling asleep on the next turn.
+The user lets loose a huge yawn that lulls \xfffethe foe into falling asleep on the \xfffenext turn.
 The user slaps down the foe’s held item, preventing the item from \xfffebeing used during the battle.
 An attack move that cuts down the foe’s HP to equal the user’s HP. 
 The user attacks in an explosive fury. \xfffeThe lower the user’s HP, the less powerful \xfffethis attack becomes.
@@ -417,7 +417,7 @@ The user trades held items with the \xfffefoe faster than the eye can follow.
 The user charges at the foe using every bit of its power. \xfffeThe user must rest on the next turn.
 The user stimulates its brain by thinking bad thoughts. \xfffeIt sharply raises the user’s Sp. Atk.
 The user strikes with a tough punch as fast as a bullet. \xfffeThis move always goes first.
-An attack move that inflicts double the damage if the user has been \xfffehurt by the foe in the same turn.
+An attack move that inflicts double the \xfffedamage if the user has been hurt by \xfffethe foe in the same turn.
 The user flash freezes chunks of ice and hurls them. \xfffeThis move always goes first.
 The user slashes with a sharp claw made from shadows. \xfffeIt has a high critical-hit ratio.
 The user bites with electrified fangs. \xfffeIt may also make the foe flinch \xfffeor become paralyzed.
