@@ -362,18 +362,18 @@ The user tackles the foe with a high-speed \xfffespin. The slower the user, the 
 The user faints. In return, the Pokemon \xfffetaking its place will have its HP \xffferestored and status cured.
 If the foe’s HP is down to about half, this \xfffeattack will hit with double the \xfffepower.
 The user draws power to attack by using its \xfffeheld Berry. The Berry determines its \xfffetype and power.
-An attack that hits a foe using Protect or Detect. \xfffeIt also lifts the effects of those moves.
+An attack that hits a foe using Protect or \xfffeDetect. It also lifts the effects of \xfffethose moves.
 The user pecks the foe. If the foe is \xfffeholding a Berry, the user plucks it \xfffeand gains its effect.
-The user whips up a turbulent whirlwind that ups the Speed of \xfffeall party Pokemon for three turns.
-The user applies pressure to stress points, sharply boosting one of its stats.
-The user retaliates against the foe that last inflicted damage on it \xfffewith much greater power.
-After making its attack, the user rushes back to switch places \xfffewith a party Pokemon in waiting.
-The user fights the foe up close without guarding itself. \xfffeIt also cuts the user’s Defense and Sp. Def.
+The user whips up a turbulent whirlwind that \xfffeups the Speed of all party Pokemon \xfffefor three turns.
+The user applies pressure to stress \xfffepoints, sharply boosting one of its stats.
+The user retaliates against the foe that \xfffelast inflicted damage on it with \xfffemuch greater power.
+After making its attack, the user rushes \xfffeback to switch places with a party \xfffePokemon in waiting.
+The user fights the foe up close without \xfffeguarding itself. It also cuts the \xfffeuser’s Defense and Sp. Def.
 If the user can use this attack after \xfffethe foe attacks, its power is doubled. 
 If the foe has already taken some damage in the \xfffesame turn, this attack’s power is doubled.
 It prevents the foe from using its held item. \xfffeIts Trainer is also prevented from using items on it.
-The user flings its held item at the foe to attack. \xfffeIts power and effects depend on the item.
-Using its psychic power of suggestion, the user transfers \xfffeits status problems to the target.
+The user flings its held item at the foe to \xfffeattack. Its power and effects \xfffedepend on the item.
+Using its psychic power of suggestion, the \xfffeuser transfers its status problems \xfffeto the target.
 The fewer PP this move has, the more power it has for attack. 
 The user prevents the foe from using any HP-recovery moves for five turns. 
 The user powerfully wrings the foe. \xfffeThe more HP the foe has, the greater \xfffethis attack’s power.
