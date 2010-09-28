@@ -306,46 +306,46 @@ The user lets loose a horribly echoing shout \xfffewith the power to inflict dam
 The user bites the foe with toxic fangs. \xfffeIt may also leave the foe badly poisoned. 
 The user slashes the foe with hard and \xfffesharp claws. It may also lower the \xfffetarget’s Defense.
 The foe is razed by a fiery explosion. \xfffeThe user must rest on the next turn, \xfffehowever.
-The foe is hit with a watery blast. \xfffeThe user must rest on the next turn, however.
-The foe is hit with a hard punch fired like a meteor. \xfffeIt may also raise the user’s Attack.
-The user attacks the foe while shouting in a startling fashion. \xfffeIt may also make the target flinch.
+The foe is hit with a watery blast. \xfffeThe user must rest on the next turn, \xfffehowever.
+The foe is hit with a hard punch fired like a \xfffemeteor. It may also raise the user’s Attack.
+The user attacks the foe while shouting in a \xfffestartling fashion. It may also make the \xfffetarget flinch.
 An attack move that varies in power and type depending on the weather. 
-The user releases a soothing scent that heals all status \xfffeproblems affecting the user’s party.
+The user releases a soothing scent that \xfffeheals all status problems affecting \xfffethe user’s party.
 The user feigns crying to make the foe feel \xfffeflustered, sharply lowering its Sp. Def stat.
 The user launches razorlike wind \xfffeto slash the foe. \xfffeIt has a high critical-hit ratio.
 The user attacks the foe at full power. The attack’s recoil \xfffesharply reduces the user’s Sp. Atk stat.
-Enables the user to hit a Ghost type with any type of move. \xfffeIt also enables the user to hit an evasive foe.
+Enables the user to hit a Ghost type with \xfffeany type of move. It also enables \xfffethe user to hit an evasive foe.
 Boulders are hurled at the foe. \xfffeIt also lowers the foe’s Speed by preventing \xfffeits movement.
 The foe is attacked with powdery scales blown by wind. \xfffeIt may also raise all the user’s stats.
-A horrible sound like scraping metal is emitted to sharply reduce \xfffethe foe’s Sp. Def stat.
+A horrible sound like scraping metal is \xfffeemitted to sharply reduce the foe’s \xfffeSp. Def stat.
 The user plays a pleasant melody that lulls \xfffethe foe into a deep sleep. 
-The user tickles the foe into laughing, reducing its Attack and Defense stats. 
-The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.
-The user spouts water to damage the foe. \xfffeThe lower the user’s HP, the less powerful it becomes.
-The user attacks with a sinister beam of light. \xfffeIt may also confuse the target. 
-The user throws a punch at the foe from the shadows. \xfffeThe punch lands without fail.
-The user attacks with an odd, unseeable power. \xfffeIt may also make the foe flinch.
-The user attacks the foe with an uppercut thrown skyward with force. 
-The user traps the foe inside a harshly raging sandstorm \xfffefor two to five turns. 
-The foe is attacked with a blast of absolute-zero cold. \xfffeThe foe instantly faints if it hits.
-The user attacks by shooting out muddy water. \xfffeIt may also lower the foe’s accuracy.
-The user forcefully shoots seeds at the foe. \xfffeTwo to five seeds are shot in rapid succession.
-The user confounds the foe with speed, then slashes. \xfffeThe attack lands without fail.
+The user tickles the foe into laughing, \xfffereducing its Attack and Defense stats. 
+The user absorbs a mystical power from \xfffespace to raise its Defense and Sp. Def stats.
+The user spouts water to damage the foe. \xfffeThe lower the user’s HP, the less powerful it \xfffebecomes.
+The user attacks with a sinister beam of \xfffelight. It may also confuse the target. 
+The user throws a punch at the foe from the \xfffeshadows. The punch lands without \xfffefail.
+The user attacks with an odd, unseeable \xfffepower. It may also make the foe \xfffeflinch.
+The user attacks the foe with an uppercut \xfffethrown skyward with force. 
+The user traps the foe inside a harshly \xffferaging sandstorm for two to five turns. 
+The foe is attacked with a blast of \xfffeabsolute-zero cold. The foe \xfffeinstantly faints if it hits.
+The user attacks by shooting out muddy \xfffewater. It may also lower the foe’s \xfffeaccuracy.
+The user forcefully shoots seeds at the foe. \xfffeTwo to five seeds are shot in rapid \xfffesuccession.
+The user confounds the foe with speed, then \xfffeslashes. The attack lands without fail.
 The user launches sharp icicles at the foe. \xfffeIt strikes two to five times in a row.
-The user hardens its body’s surface like iron, sharply raising \xfffeits Defense stat.
-The user blocks the foe’s way with arms spread wide to prevent escape. 
-The user howls loudly to raise its spirit, boosting its Attack stat. 
-The user slashes the foe with huge, sharp claws.  
+The user hardens its body’s surface like \xfffeiron, sharply raising its Defense stat.
+The user blocks the foe’s way with arms \xfffespread wide to prevent escape. 
+The user howls loudly to raise its spirit, \xfffeboosting its Attack stat. 
+The user slashes the foe with huge, \xfffesharp claws.  
 The foe is slammed with an enormous tree. \xfffeThe user can’t move on the next turn.
-The user tenses its muscles to bulk up its body, boosting both \xfffeits Attack and Defense stats.
-The user bounces up high, then drops on the foe on the second turn. \xfffeIt may also paralyze the foe.
-The user attacks by hurling a blob of mud at the foe. \xfffeIt also reduces the target’s Speed.
+The user tenses its muscles to bulk up its \xfffebody, boosting both its Attack and \xfffeDefense stats.
+The user bounces up high, then drops on the \xfffefoe on the second turn. It may also \xfffeparalyze the foe.
+The user attacks by hurling a blob of mud at \xfffethe foe. It also reduces the target’s \xfffeSpeed.
 An attack with a high critical-hit ratio. \xfffeThis tail  attack may also  poison the foe.
-The user endearingly approaches the foe, then steals the item \xfffethe foe is holding. 
-The user electrifies itself, then charges at the foe. \xfffeIt causes considerable damage to the user as well.
+The user endearingly approaches the foe, \xfffethen steals the item the foe is holding. 
+The user electrifies itself, then charges at \xfffethe foe. It causes considerable \xfffedamage to the user as well.
 The user scatters curious leaves that chase \xfffethe foe. This attack will not miss.
-The user soaks itself with water. The move weakens Fire-type moves \xfffewhile the user is in the battle.
-The user quietly focuses its mind and calms its spirit to raise \xfffeits Sp. Atk and Sp. Def stats.
+The user soaks itself with water. The move \xfffeweakens Fire-type moves while the \xfffeuser is in the battle.
+The user quietly focuses its mind and calms \xfffeits spirit to raise its \xfffeSp. Atk and Sp. Def stats.
 The foe is slashed with a sharp leaf. \xfffeIt has a high critical-hit ratio. 
 The user vigorously performs a \xfffemystic, powerful dance that boosts its \xfffeAttack and Speed stats.
 The user hurls hard rocks at the foe. \xfffeTwo to five rocks are launched in quick \xfffesuccession.
