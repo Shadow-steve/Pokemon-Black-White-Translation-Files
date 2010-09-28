@@ -357,11 +357,11 @@ The user lands and rests its body. \xfffeIt restores the user’s HP \xfffeby up
 Gravity is intensified for five turns, making \xfffemoves involving flying unusable and \xfffenegating Levitation.
 Enables the user to hit a Dark type with any \xfffetype of move. It also enables the \xfffeuser to hit an evasive foe.
 This attack inflicts high damage on a sleeping \xfffefoe. It also wakes the foe up, \xfffehowever.
-The user swings and hits with its strong and heavy fist. \xfffeIt lowers the user’s Speed, however.
-The user tackles the foe with a high-speed spin. \xfffeThe slower the user, the greater the damage.
-The user faints. In return, the Pokemon taking its place will have its \xfffeHP restored and status cured.
-If the foe’s HP is down to about half, this attack will \xfffehit with double the power.
-The user draws power to attack by using its held Berry. \xfffeThe Berry determines its type and power.
+The user swings and hits with its strong and \xfffeheavy fist. It lowers the user’s \xfffeSpeed, however.
+The user tackles the foe with a high-speed \xfffespin. The slower the user, the \xfffegreater the damage.
+The user faints. In return, the Pokemon \xfffetaking its place will have its HP \xffferestored and status cured.
+If the foe’s HP is down to about half, this \xfffeattack will hit with double the \xfffepower.
+The user draws power to attack by using its \xfffeheld Berry. The Berry determines its \xfffetype and power.
 An attack that hits a foe using Protect or Detect. \xfffeIt also lifts the effects of those moves.
 The user pecks the foe. If the foe is \xfffeholding a Berry, the user plucks it \xfffeand gains its effect.
 The user whips up a turbulent whirlwind that ups the Speed of \xfffeall party Pokemon for three turns.
