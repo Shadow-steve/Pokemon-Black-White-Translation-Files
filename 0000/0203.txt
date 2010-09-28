@@ -196,7 +196,7 @@ When this move is used, if the user faints, \xfffethe foe that landed the knocko
 Any Pokemon that hears this song faints in \xfffethree turns, unless it switches out of \xfffebattle.
 The user attacks with a gust of chilled air. \xfffeIt also lowers the target’s Speed stat. 
 It enables the user to evade all attacks. \xfffeIts chance of failing rises if it is used in \xfffesuccession.
-The user strikes at the foe with a hard bone two to five times in a row. 
+The user strikes at the foe with a hard \xfffebone two to five times in a row. 
 The user takes sure aim at the foe. \xfffeIt ensures the next attack does not fail to \xfffehit the target.
 The user rampages and attacks for two to \xfffethree turns. However, it then \xfffebecomes confused.
 A five-turn sand-storm is summoned to hurt \xfffeall combatant types except Rock, \xfffeGround, and Steel.
@@ -351,12 +351,12 @@ The user vigorously performs a \xfffemystic, powerful dance that boosts its \xff
 The user hurls hard rocks at the foe. \xfffeTwo to five rocks are launched in quick \xfffesuccession.
 The user strikes the foe with a quick jolt \xfffeof electricity. This attack cannot be evaded.
 The user attacks the foe with a pulsing \xfffeblast of water. It may also confuse the foe.
-Two turns after this move is used, the user blasts the foe with a \xfffeconcentrated bundle of light.
+Two turns after this move is used, \xfffethe user blasts the foe with a concentrated bundle of light.
 The user attacks the foe at full power. \xfffeThe attack’s recoil sharply \xfffereduces the user’s Sp. Atk stat.
 The user lands and rests its body. \xfffeIt restores the user’s HP \xfffeby up to half of its max HP.
-Gravity is intensified for five turns, making moves involving \xfffeflying unusable and negating Levitation.
-Enables the user to hit a Dark type with any type of move. \xfffeIt also enables the user to hit an evasive foe.
-This attack inflicts high damage on a sleeping foe. \xfffeIt also wakes the foe up, however.
+Gravity is intensified for five turns, making \xfffemoves involving flying unusable and \xfffenegating Levitation.
+Enables the user to hit a Dark type with any \xfffetype of move. It also enables the \xfffeuser to hit an evasive foe.
+This attack inflicts high damage on a sleeping \xfffefoe. It also wakes the foe up, \xfffehowever.
 The user swings and hits with its strong and heavy fist. \xfffeIt lowers the user’s Speed, however.
 The user tackles the foe with a high-speed spin. \xfffeThe slower the user, the greater the damage.
 The user faints. In return, the Pokemon taking its place will have its \xfffeHP restored and status cured.
@@ -393,7 +393,7 @@ The user employs its psychic power to switch stat changes with the foe.
 The user envelops itself in a veil made of water. \xfffeIt regains some HP on every turn.
 The user levitates using electrically generated magnetism for five turns. 
 The user cloaks itself in fire and charges at the foe. \xfffeThe user sustains serious damage, too.
-The foe is attacked with a shock wave. It may also leave the target paralyzed. 
+The foe is attacked with a shock wave. It may also leave the \xfffetarget paralyzed. 
 The user looses a blast of aura power from deep within its body. \xfffeThis move is certain to hit.
 The user polishes its body to reduce drag. It can sharply raise the Speed stat. 
 The foe is stabbed with a tentacle or arm steeped in poison. \xfffeIt may also poison the foe.
@@ -436,7 +436,7 @@ Comets are summoned down from the sky. The attack’s recoil sharply reduces the
 A flare of electricity is loosed to strike all Pokemon in battle. \xfffeIt may also cause paralysis.
 An inferno of scarlet flames washes over all Pokemon in battle. \xfffeIt may also inflict burns.
 A storm of sharp leaves is whipped up. The attack’s recoil sharply reduces the user’s Sp. Atk stat.
-The user violently whirls its vines or tentacles to harshly lash the foe. 
+The user violently whirls its vines or \xfffetentacles to harshly lash the foe. 
 The user launches a huge boulder at the foe to attack. \xfffeIt must rest on the next turn, however.
 A slashing attack that may also leave the target poisoned. \xfffeIt has a high critical-hit ratio.
 The user shoots filthy garbage at the foe \xfffeto attack. It may also poison the \xfffetarget.
